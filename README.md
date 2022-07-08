@@ -7,3 +7,4 @@ Install the dependencies and devDependencies and start the server.
 npm install
 npm start
 ```
+Go To localhost:3000
